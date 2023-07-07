@@ -1,11 +1,11 @@
 # Super_Softwareano
 Creacion del juego "Super Softwareano" por parte del grupo 8
 ## Integrantes
-Wilson Lluilema 
-Maria Jose Tapia
-Pablo Guerra 
-Jose Lopez 
-Lisbeth Soria
+- Wilson Lluilema 
+- Maria Jose Tapia
+- Pablo Guerra 
+- Jose Lopez 
+- Lisbeth Soria
 
 ## Materia
 Sistemas de multimedia y gamificacion
